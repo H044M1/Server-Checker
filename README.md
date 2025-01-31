@@ -15,26 +15,22 @@
 6. Вывод результатов – отображает статистику успешных, неудачных запросов и ошибок, а также сохраняет результаты в файл (если указан).
 
 ### Инстуркции по запуску:
-1.Запуск с указанием хостов через аргумент ключ -H (список хостов через запятую):
-  python checker.py -H https://ya.ru,https://google.com
-2. Запуск с указанием файла с хостами (по одному хосту в строке, ключ -F):
-  python checker.py -F hosts.txt
-3. Добавление количества запросов (ключ -C):
-  python checker.py -H https://ya.ru -C 5
-4. Сохранение результата в файл (ключ -O):
-  python checker.py -H https://ya.ru -O result.txt
+1.Запуск с указанием хостов через аргумент ключ -H (список хостов через запятую): python checker.py -H https://ya.ru,https://google.com
+2. Запуск с указанием файла с хостами (по одному хосту в строке, ключ -F): python checker.py -F hosts.txt
+3. Добавление количества запросов (ключ -C): python checker.py -H https://ya.ru -C 5
+4. Сохранение результата в файл (ключ -O): python checker.py -H https://ya.ru -O result.txt
 
 ### Примеры вывода:
-![image](https://github.com/user-attachments/assets/7e3c0052-e78b-494e-a58a-fbfae0f2a91e)
-![image](https://github.com/user-attachments/assets/f927ab3c-e128-4c4e-9182-ee6f153119f5)
+1.![image](https://github.com/user-attachments/assets/7e3c0052-e78b-494e-a58a-fbfae0f2a91e)
+2.![image](https://github.com/user-attachments/assets/f927ab3c-e128-4c4e-9182-ee6f153119f5)
 
-![image](https://github.com/user-attachments/assets/993b9b2c-0d0d-4053-bffc-9a8238a36c84)
-![image](https://github.com/user-attachments/assets/06fca8cc-671f-4fd6-8b2b-b69224d8926f)
+3.![image](https://github.com/user-attachments/assets/993b9b2c-0d0d-4053-bffc-9a8238a36c84)
+4.![image](https://github.com/user-attachments/assets/06fca8cc-671f-4fd6-8b2b-b69224d8926f)
 
-![image](https://github.com/user-attachments/assets/392b1e79-c4f3-4f14-952f-c1ea98306a75)
-![image](https://github.com/user-attachments/assets/fa89884b-aab5-4713-8ccd-557c2f7266e4)
+5.![image](https://github.com/user-attachments/assets/392b1e79-c4f3-4f14-952f-c1ea98306a75)
+6.![image](https://github.com/user-attachments/assets/fa89884b-aab5-4713-8ccd-557c2f7266e4)
 
-![image](https://github.com/user-attachments/assets/dd81b4cd-df71-4820-9289-8b46497a901e)
-![image](https://github.com/user-attachments/assets/7b04e1b1-7b31-4dab-9b8e-994933bfc9c9)
+7.![image](https://github.com/user-attachments/assets/dd81b4cd-df71-4820-9289-8b46497a901e)
+8.![image](https://github.com/user-attachments/assets/7b04e1b1-7b31-4dab-9b8e-994933bfc9c9)
 
-![image](https://github.com/user-attachments/assets/526180be-6be8-401a-bc86-a474343c57d2)
+9.![image](https://github.com/user-attachments/assets/526180be-6be8-401a-bc86-a474343c57d2)
