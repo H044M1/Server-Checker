@@ -61,7 +61,7 @@ def ServChecker(hosts, count,output_file=None):
     else:
         result.append("There are no successful requests for calculating the time")
     
-    result.append(f"Successful requests: {success_cnt} \nFailed requests: {failed_cnt}")
+    result.append(f"Successful requests: {success_cnt}")
     result.append(f"Failed requests: {failed_cnt}")
     result.append(f"Errors: {error_cnt}")
 
